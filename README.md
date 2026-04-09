@@ -8,7 +8,7 @@ Writing code, writing performant code, and waging war on over‑engineering.
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-%F0%9F%94%A7-555)
 [![Zig (learning)](https://img.shields.io/badge/Learning-Zig-F7A41D?logo=zig&logoColor=000)](https://ziglang.org/)
-[![X](https://img.shields.io/badge/Follow-%40x0ptrr-000?logo=x&logoColor=white)](https://x.com/x0ptrr)
+[![X](https://img.shields.io/badge/Follow-%40x0ptrr-000?logo=x&logoColor=white)](https://x.com/XFQQY)
 
 ---
 
