@@ -33,4 +33,4 @@ Writing code, writing performant code, and waging war on over‑engineering.
 ---
 
 ## Connect
-- X: [@x0ptrr](https://x.com/x0ptrr)
+- X: [@x0ptrr](https://x.com/XFQQY)
