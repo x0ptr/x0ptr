@@ -3,6 +3,7 @@
 Software Engineer • API Builder • Integrations • Platform Architect  
 Writing code, writing performant code, and waging war on over‑engineering.
 
+[![Erlang](https://img.shields.io/badge/erlang-red)](https://www.erlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -19,7 +20,7 @@ Writing code, writing performant code, and waging war on over‑engineering.
 - Observability and automation as first principles
 
 ## Tech I use
-- Languages: Go, Rust, TypeScript (learning Zig)
+- Languages: Erlang, Go, Rust, TypeScript (learning Zig)
 - Work: APIs, integrations, platform and infrastructure
 
 ## Now
