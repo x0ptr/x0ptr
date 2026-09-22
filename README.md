@@ -1,28 +1,26 @@
 # Lars Feldeisen
 
-**Software engineer working on backend systems, APIs, integrations, and infrastructure.**
+**Software engineer & solution architect | Backend systems, APIs, and platforms**
 
-I like building software that is straightforward to understand, reliable in production, and easy to maintain. I care about clear interfaces, useful observability, and performance where it makes a measurable difference.
+I have 15 years of experience across system engineering, software development, and architecture. Today I work hands-on with Go, Linux, and Kubernetes, building backend services and connecting systems that need to work reliably together.
 
-## Areas of focus
+My background also includes full-stack product development, identity and authentication, and the practical work of improving performance and maintainability in production systems.
 
-- Backend services and API design
-- System integrations and platform architecture
-- Infrastructure, automation, and observability
-- Performance and reliability
+## What I work on
 
-## Selected projects
+- **Backend & APIs:** Go services, HTTP APIs, and clear interfaces between systems.
+- **Integrations & identity:** data flows across existing platforms, OpenID Connect, and authentication modernization.
+- **Platforms & reliability:** Kubernetes, Docker, automation, troubleshooting, and performance.
+- **Product engineering:** web applications and features built with JavaScript/TypeScript, React, and PHP/Symfony.
+
+I enjoy working across these boundaries: understanding the problem, choosing a simple design, writing the code, and helping teams operate and improve what they ship.
+
+## Selected open-source projects
 
 - **[gitrot](https://github.com/x0ptr/gitrot)** — a Go CLI that uses Git history to surface code drift, tangled commits, and refactoring hotspots.
 - **[BeamGate](https://github.com/x0ptr/beamgate)** — an Erlang/OTP project exploring HTTP routing and WebSocket connections at the edge.
 - **[nub](https://github.com/x0ptr/nub)** — a Go CLI for crawling websites and producing focused AI summaries.
 
-## Technologies
-
-Erlang/OTP · Go · Rust · TypeScript
-
-My approach is pragmatic: keep systems as simple as their requirements allow, make trade-offs explicit, and build for the people who will maintain the code.
-
 ## Connect
 
-[X](https://x.com/XFQQY)
+[LinkedIn](https://www.linkedin.com/in/feldeisenlars/) · [X](https://x.com/XFQQY)
