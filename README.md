@@ -15,12 +15,15 @@ My background also includes full-stack product development, identity and authent
 
 I enjoy working across these boundaries: understanding the problem, choosing a simple design, writing the code, and helping teams operate and improve what they ship.
 
-## Selected open-source projects
+## Programming languages
 
-- **[gitrot](https://github.com/x0ptr/gitrot)** — a Go CLI that uses Git history to surface code drift, tangled commits, and refactoring hotspots.
-- **[BeamGate](https://github.com/x0ptr/beamgate)** — an Erlang/OTP project exploring HTTP routing and WebSocket connections at the edge.
-- **[nub](https://github.com/x0ptr/nub)** — a Go CLI for crawling websites and producing focused AI summaries.
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=white)](https://www.erlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/feldeisenlars/) · [X](https://x.com/XFQQY)
+[LinkedIn](https://www.linkedin.com/in/feldeisenlars/)
